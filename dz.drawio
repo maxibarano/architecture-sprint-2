@@ -1283,7 +1283,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AEY3xT5kExW50m0PxdZM-3" value="API-Gateway" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1530.9700000000003" width="300.33" height="21.91" as="geometry" />
+          <mxGeometry x="49.5" y="1530.47" width="299.33" height="21.91" as="geometry" />
         </mxCell>
         <mxCell id="AEY3xT5kExW50m0PxdZM-4" value="pymongo-api" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="250.33121951219516" y="1693.7258485750745" width="98.34146341463413" height="49.14079115270096" as="geometry" />
