@@ -22,3 +22,5 @@ docker compose up -d
 
 ## Task3
 Информация о репликации находится в ответе с http://localhost:8080 под ключом shards у каждого шарда
+
+https://drive.google.com/file/d/1DGUW6k4d9Q0gcsxZFaXa8RqgfoJ28DNR/view?usp=sharing

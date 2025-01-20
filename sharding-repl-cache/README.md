@@ -23,3 +23,5 @@ docker compose up -d
 ## Task4
 Информация о кэшировании находится в ответе с http://localhost:8080 под ключом cache_enabled
 Также скорость ответа при повторном обращении можно проверить http://localhost:8080/helloDoc/users
+
+https://drive.google.com/file/d/1DGUW6k4d9Q0gcsxZFaXa8RqgfoJ28DNR/view?usp=sharing
