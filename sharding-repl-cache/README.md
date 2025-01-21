@@ -24,4 +24,4 @@ docker compose up -d
 Информация о кэшировании находится в ответе с http://localhost:8080 под ключом cache_enabled
 Также скорость ответа при повторном обращении можно проверить http://localhost:8080/helloDoc/users
 
-https://drive.google.com/file/d/1DGUW6k4d9Q0gcsxZFaXa8RqgfoJ28DNR/view?usp=sharing
+https://drive.google.com/file/d/1df-p7yMr152yQMtcZIV6XwNu5OuiGj4r/view?usp=sharing

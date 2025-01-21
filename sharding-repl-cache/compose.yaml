@@ -205,7 +205,7 @@ services:
 
   redis:
     container_name: 'pymongo-redis'
-    image: nexus-dmz.zxz.su:19002/redis:4-alpine
+    image: dh-mirror.gitverse.ru/redis:4-alpine
     restart: always
     ports:
       - "6379:6379"
